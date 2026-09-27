@@ -3,4 +3,4 @@ Portfolio of LumenMirage (Abdur Rehman): 50 original stock illustrations — gra
 ## Tech
 Single self-contained static HTML file (index.html) with all 50 artworks inlined. No build step — deploy as-is on any static host.
 ## Live site
-<fill in the Vercel URL after deployment>
+https://lumenmirage-portfolio.vercel.app
